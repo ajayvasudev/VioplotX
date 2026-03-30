@@ -194,6 +194,14 @@ vioplotX/
     ├── main_ui.png
     └── plot_example.png
 ```
+## ⬇️ Download
+
+Download the latest version from the Releases section:
+
+👉 https://github.com/ajayvasudev/VioplotX/releases
+
+⚠️ If Windows SmartScreen blocks the app:
+Click "More info" → "Run anyway"
 
 ---
 
@@ -261,4 +269,4 @@ Built with:
 
 ---
 
-*Developed for proteomics and omic data analysis. If you use VioPlotX in your research, consider starring the repository.*
+*Developed for omic data analysis. If you use VioPlotX in your research, consider starring the repository.*
