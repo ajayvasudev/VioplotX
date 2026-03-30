@@ -72,13 +72,9 @@ VioPlotX is a desktop application for generating **publication-quality Violin + 
 
 ## Screenshots
 
-> *(Add screenshots of your application here after running it)*
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/e2d82c09-604d-4fb8-b39b-bfe6a92d8b96" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/3e6b8637-23bd-4e3c-9396-0ce22e540158" />
 
-```
-Place screenshots in a /screenshots folder and link them here:
-![Main UI](screenshots/main_ui.png)
-![Plot Example](screenshots/plot_example.png)
-```
 
 ---
 
